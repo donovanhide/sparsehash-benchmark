@@ -9,7 +9,7 @@
 using google::sparsetable;
 using namespace std;
 
-// Benchmark tool to test 1/4 filling a sparsetable with 1<<32 slots
+// Benchmark tool to test 1/8 filling a sparsetable with 1<<32 slots
 // and reading and writing it to disk. Delete the test file to start again
 // Output from first and second run below:
 
